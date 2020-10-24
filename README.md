@@ -1,4 +1,4 @@
-# HIT-thesis-template
+# HIT-thesis-template-word
 哈尔滨工业大学本科毕业设计word模板。Undergraduate thesis template of Harbin Institute of Technology, consist of proposal, mid-term and thesis template of Microsoft Word.   
 1.	此文件为Microsoft office模板文件“.dotx”文件，每次只需双击即可自动新建一个新文件“文档1.docx”，创建后一定要先保存到本地再编辑。（注意：不要对.dotx文件右键打开，右键打开为编辑.dotx文件，而非创建新的.docx文件）  
 2.	本模板所有格式均根据“哈尔滨工业大学本科生毕业撰写规范”[1]设置，使用者可验证。  
