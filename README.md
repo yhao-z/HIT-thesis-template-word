@@ -5,7 +5,7 @@ Undergraduate thesis template of Harbin Institute of Technology, consist of prop
 3.	本模板包括三个模板，分别为开题、中期、毕业论文，一脉相承，此处以“毕业论文-模板.dotx”为例说明。
 4.	写论文时不必担心格式问题，此模板已经在样式库中设置好样式，编写时只需点击样式库即可。下面具体说明：
 样式库中总共有以下8种样式
-![样式]（https://github.com/yhao-z/HIT-thesis-template/blob/main/yangshi.png）
+![样式](https://github.com/yhao-z/HIT-thesis-template/blob/main/yangshi.png)
 其中
   <1> “标题1—标题4”分别为章标题、节标题、条标题、款/项标题。
   <2> “其他标题”格式对应于“毕业论文-模板.dotx”中的“摘要、ABSTRACT、结论、参考文献、致谢”这四个标题。这些标题单独设置为“其他标题”格式的原因：这些标题格式要求都与“章标题”，也就是“标题1”，的字体段落格式一致，但是在多级列表结构中（用于自动更新目录）是不一样的，因为“标题1”是有编号的，如“第1章”，而“摘要”等标题没有编号，因此设置为不同格式。了解区别后，使用者可根据需要自定义。
